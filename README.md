@@ -1,3 +1,8 @@
-# sar-mosaics
-Workflows to create Sentinel-1 mosaics.
+# sar-applications
+Notebooks and workflows to create Sentinel-1 applications.
 Implemented for CSIRO EASI using ODC/Argo tools.
+
+Examples include:
+- Surface water thresholding
+- Fire scar detection
+- Backscatter mosaics
