@@ -1,4 +1,4 @@
-# sar-applications
+# SAR Applications
 Notebooks and workflows to create Sentinel-1 applications.
 Implemented for CSIRO EASI using ODC/Argo tools.
 
